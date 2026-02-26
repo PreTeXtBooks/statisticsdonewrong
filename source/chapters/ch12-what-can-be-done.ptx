@@ -3,23 +3,119 @@
   <title>What Can Be Done?</title>
 
   <p>
-    The situation is not hopeless. Statisticians, methodologists, and
-    enlightened scientists have proposed many reforms to improve the quality
-    of scientific research. Some have already been implemented; others
-    are gaining traction.
+    I've discussed many statistical problems throughout this guide. They
+    appear in many fields of science: medicine, physics, climate science,
+    biology, chemistry, neuroscience, and many others. Any researcher using
+    statistical methods to analyze data is likely to make a mistake, and as
+    we've seen, most of them do. What can we do about it?
   </p>
 
-  <p>
-    Pre-registration, larger sample sizes, open data, replication studies,
-    better statistical education, and revised publication standards can all
-    contribute to a more reliable scientific literature. None of these
-    changes is easy or free, but the alternative <mdash/> continuing to
-    build science on a shaky foundation <mdash/> is worse.
-  </p>
+  <section xml:id="sec-statistical-education">
+    <title>Statistical Education</title>
 
-  <p>
-    This chapter surveys the reforms that have been proposed and evaluates
-    their prospects for improving scientific practice.
-  </p>
+    <p>
+      Most American science students have a minimal statistical education
+      <mdash/> perhaps one or two required courses, or even none at all for
+      many students. And even when students have taken statistical courses,
+      professors report that they can't apply statistical concepts to
+      scientific questions, having never fully understood <mdash/> or simply
+      forgotten <mdash/> the appropriate techniques. This needs to change.
+      Almost every scientific discipline depends on statistical analysis of
+      experimental data, and statistical errors waste grant funding and
+      researcher time.
+    </p>
+
+    <p>
+      Some universities have experimented with statistics courses integrated
+      with science classes, with students immediately applying their
+      statistical knowledge to problems in their field. Preliminary results
+      suggests these methods work: students learn and retain more statistics,
+      and they spend less time whining about being forced to take a
+      statistics course.<fn>A. M. Metz. Teaching Statistics in Biology:
+      Using Inquiry-based Learning to Strengthen Understanding of
+      Statistical Analysis in Biology Laboratory Courses. <em>CBE Life
+      Sciences Education</em>, 7:317<ndash/>326, 2008.</fn> More
+      universities should adopt these techniques, using conceptual tests to
+      see what methods work best.
+    </p>
+
+    <p>
+      We also need more freely available educational material. I was
+      introduced to statistics when I needed to analyze data in a laboratory
+      and didn't know how; until strong statistics education is more
+      widespread, many students will find themselves in the same position,
+      and they need resources. Projects like
+      <url href="http://www.openintro.org/stat/textbook.php"
+      visual="openintro.org/stat/textbook.php">OpenIntro Stats</url> are
+      promising, and I hope to see more in the near future.
+    </p>
+
+  </section>
+
+  <section xml:id="sec-scientific-publishing">
+    <title>Scientific Publishing</title>
+
+    <p>
+      Scientific journals are slowly making progress towards solving many of
+      the problems I have discussed. Reporting guidelines, such as CONSORT
+      for randomized trials, make it clear what information is required for
+      a published paper to be reproducible; unfortunately, as we've seen,
+      these guidelines are infrequently enforced. We must continue to
+      pressure journals to hold authors to more rigorous standards.
+    </p>
+
+    <p>
+      Premier journals need to lead the charge. <em>Nature</em> has begun
+      to do so, announcing a new
+      <url href="http://www.nature.com/authors/policies/checklist.pdf"
+      visual="nature.com/authors/policies/checklist.pdf">checklist</url>
+      which authors are required to complete before articles may be
+      published. The checklist requires reporting of sample sizes,
+      statistical power calculations, clinical trial registration numbers,
+      a completed CONSORT checklist, adjustment for multiple comparisons,
+      and sharing of data and source code. The guidelines cover most issues
+      covered in <em>Statistics Done Wrong</em>, except for stopping rules
+      and discussion of any reasons for departing from the trial's
+      registered protocol. <em>Nature</em> will also make statisticians
+      available to consult for papers as needed.
+    </p>
+
+    <p>
+      If these guidelines are enforced, the result will be much more
+      reliable and reproducible scientific research. More journals should
+      do the same.
+    </p>
+
+  </section>
+
+  <section xml:id="sec-your-job">
+    <title>Your Job</title>
+
+    <p>
+      Your task can be expressed in four simple steps:
+    </p>
+
+    <ol>
+      <li>
+        <p>Read a statistics textbook or take a good statistics course.
+        Practice.</p>
+      </li>
+      <li>
+        <p>Plan your data analyses carefully and deliberately, avoiding the
+        misconceptions and errors you have learned.</p>
+      </li>
+      <li>
+        <p>When you find common errors in the scientific literature <mdash/>
+        such as a simple misinterpretation of <em>p</em> values <mdash/>
+        hit the perpetrator over the head with your statistics textbook.
+        It's therapeutic.</p>
+      </li>
+      <li>
+        <p>Press for change in scientific education and publishing. It's
+        our research. Let's not screw it up.</p>
+      </li>
+    </ol>
+
+  </section>
 
 </chapter>

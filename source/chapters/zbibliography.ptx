@@ -2,30 +2,26 @@
 <references xml:id="ch-bibliography" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Bibliography</title>
 
-  <biblio type="raw" xml:id="ioannidis-2005bw">
-    J. P. A. Ioannidis.
-    <title>Why Most Published Research Findings Are False</title>.
-    <journal>PLoS Medicine</journal>, 2(8):e124, 2005.
+  <biblio type="raw" xml:id="baggerly-2009gk">
+    K. A. Baggerly, K. R. Coombes.
+    <title>Deriving chemosensitivity from cell lines: Forensic bioinformatics
+    and reproducible research in high-throughput biology</title>.
+    <journal>The Annals of Applied Statistics</journal>, 3:1309<ndash/>1334, 2009.
   </biblio>
 
-  <biblio type="raw" xml:id="goodman-1999tx">
-    S. N. Goodman.
-    <title>Toward evidence-based medical statistics. 1: The P value fallacy</title>.
-    <journal>Annals of Internal Medicine</journal>, 130:995<ndash/>1004, 1999.
+  <biblio type="raw" xml:id="bakker-2011ja">
+    M. Bakker, J. M. Wicherts.
+    <title>The (mis)reporting of statistical results in psychology
+    journals</title>.
+    <journal>Behavior Research Methods</journal>, 43:666<ndash/>678, 2011.
   </biblio>
 
-  <biblio type="raw" xml:id="tsang-2009iw">
-    R. Tsang, L. Colley, L. D. Lynd.
-    <title>Inadequate statistical power to detect clinically significant differences
-    in adverse event rates in randomized controlled trials</title>.
-    <journal>Journal of Clinical Epidemiology</journal>, 62:609<ndash/>616, 2009.
-  </biblio>
-
-  <biblio type="raw" xml:id="moher-1994">
-    D. Moher, C. S. Dulberg, G. A. Wells.
-    <title>Statistical power, sample size, and their reporting in randomized
-    controlled trials</title>.
-    <journal>JAMA</journal>, 272:122<ndash/>124, 1994.
+  <biblio type="raw" xml:id="bassler-2010ds">
+    D. Bassler, M. Briel, V. M. Montori, M. Lane, P. Glasziou, Q. Zhou,
+    D. Heels-Ansdell, S. D. Walter, G. H. Guyatt.
+    <title>Stopping Randomized Trials Early for Benefit and Estimation of
+    Treatment Effects: Systematic Review and Meta-regression Analysis</title>.
+    <journal>JAMA</journal>, 303:1180<ndash/>1187, 2010.
   </biblio>
 
   <biblio type="raw" xml:id="bedard-2007dy">
@@ -35,18 +31,49 @@
     <journal>Journal of Clinical Oncology</journal>, 25:3482<ndash/>3487, 2007.
   </biblio>
 
+  <biblio type="raw" xml:id="begley-2012">
+    C. G. Begley, L. M. Ellis.
+    <title>Drug development: Raise standards for preclinical cancer
+    research</title>.
+    <journal>Nature</journal>, 483:531<ndash/>533, 2012.
+  </biblio>
+
+  <biblio type="raw" xml:id="benjamini-1995ws">
+    Y. Benjamini, Y. Hochberg.
+    <title>Controlling the false discovery rate: a practical and powerful
+    approach to multiple testing</title>.
+    <journal>Journal of the Royal Statistical Society Series B</journal>,
+    289<ndash/>300, 1995.
+  </biblio>
+
+  <biblio type="raw" xml:id="bennett-2010uh">
+    C. Bennett, A. Baird, M. Miller, G. Wolford.
+    <title>Neural Correlates of Interspecies Perspective Taking in the
+    Post-Mortem Atlantic Salmon: An Argument For Proper Multiple Comparisons
+    Correction</title>.
+    <journal>Journal of Serendipitous and Unexpected Results</journal>,
+    1:1<ndash/>5, 2010.
+  </biblio>
+
+  <biblio type="raw" xml:id="bogaert-2006tc">
+    A. F. Bogaert.
+    <title>Biological versus nonbiological older brothers and men's sexual
+    orientation</title>.
+    <journal>PNAS</journal>, 103:10771<ndash/>10774, 2006.
+  </biblio>
+
+  <biblio type="raw" xml:id="bramwell-2006er">
+    R. Bramwell, H. West.
+    <title>Health professionals' and service users' interpretation of screening
+    test results: experimental study</title>.
+    <journal>BMJ</journal>, 2006.
+  </biblio>
+
   <biblio type="raw" xml:id="brown-1987uu">
     C. G. Brown, G. D. Kelen, J. J. Ashton, H. A. Werman.
     <title>The beta error and sample size determination in clinical trials in
     emergency medicine</title>.
     <journal>Annals of Emergency Medicine</journal>, 16:183<ndash/>187, 1987.
-  </biblio>
-
-  <biblio type="raw" xml:id="chung-1998ku">
-    K. C. Chung, L. K. Kalliainen, R. A. Hayward.
-    <title>Type II (beta) errors in the hand literature: the importance of
-    power</title>.
-    <journal>The Journal of Hand Surgery</journal>, 23:20<ndash/>25, 1998.
   </biblio>
 
   <biblio type="raw" xml:id="button-2013dz">
@@ -57,11 +84,257 @@
     <journal>Nature Reviews Neuroscience</journal>, 14:365<ndash/>376, 2013.
   </biblio>
 
+  <biblio type="raw" xml:id="carp-2012ba">
+    J. Carp.
+    <title>The secret lives of experiments: methods reporting in the fMRI
+    literature</title>.
+    <journal>Neuroimage</journal>, 63:289<ndash/>300, 2012.
+  </biblio>
+
+  <biblio type="raw" xml:id="chan-2004gm">
+    A.-W. Chan, A. Hróbjartsson, M. T. Haahr, P. C. Gøtzsche, D. G. Altman.
+    <title>Empirical Evidence for Selective Reporting of Outcomes in Randomized
+    Trials: Comparison of Protocols to Published Articles</title>.
+    <journal>JAMA</journal>, 291:2457<ndash/>2465, 2004.
+  </biblio>
+
+  <biblio type="raw" xml:id="chan-2008bb">
+    A.-W. Chan, A. Hróbjartsson, K. J. Jørgensen, P. C. Gøtzsche, D. G. Altman.
+    <title>Discrepancies in sample size calculations and data analyses reported
+    in randomised trials: comparison of publications with protocols</title>.
+    <journal>BMJ</journal>, 337:a2299, 2008.
+  </biblio>
+
+  <biblio type="raw" xml:id="chung-1998ku">
+    K. C. Chung, L. K. Kalliainen, R. A. Hayward.
+    <title>Type II (beta) errors in the hand literature: the importance of
+    power</title>.
+    <journal>The Journal of Hand Surgery</journal>, 23:20<ndash/>25, 1998.
+  </biblio>
+
+  <biblio type="raw" xml:id="moher-1994">
+    D. Moher, C. S. Dulberg, G. A. Wells.
+    <title>Statistical power, sample size, and their reporting in randomized
+    controlled trials</title>.
+    <journal>JAMA</journal>, 272:122<ndash/>124, 1994.
+  </biblio>
+
+  <biblio type="raw" xml:id="eyding-2010bx">
+    D. Eyding, M. Lelgemann, U. Grouven, M. Härter, M. Kromp, T. Kaiser,
+    M. F. Kerekes, M. Gerken, B. Wieseler.
+    <title>Reboxetine for acute treatment of major depression: systematic review
+    and meta-analysis of published and unpublished placebo and selective
+    serotonin reuptake inhibitor controlled trials</title>.
+    <journal>BMJ</journal>, 341:c4737, 2010.
+  </biblio>
+
+  <biblio type="raw" xml:id="gabriel-1978fp">
+    K. R. Gabriel.
+    <title>A simple method of multiple comparisons of means</title>.
+    <journal>Journal of the American Statistical Association</journal>,
+    73:724<ndash/>729, 1978.
+  </biblio>
+
+  <biblio type="raw" xml:id="galak-2012fd">
+    J. Galak, R. A. LeBoeuf, L. D. Nelson, J. P. Simmons.
+    <title>Correcting the past: Failures to replicate psi</title>.
+    <journal>Journal of Personality and Social Psychology</journal>,
+    103:933<ndash/>948, 2012.
+  </biblio>
+
+  <biblio type="raw" xml:id="gelman-1999gi">
+    A. Gelman, P. N. Price.
+    <title>All maps of parameter estimates are misleading</title>.
+    <journal>Statistics in Medicine</journal>, 18:3221<ndash/>3234, 1999.
+  </biblio>
+
+  <biblio type="raw" xml:id="gelman-2006bj">
+    A. Gelman, H. Stern.
+    <title>The Difference Between <q>Significant</q> and <q>Not
+    Significant</q> is not Itself Statistically Significant</title>.
+    <journal>The American Statistician</journal>, 60:328<ndash/>331, 2006.
+  </biblio>
+
+  <biblio type="raw" xml:id="gonon-2012do">
+    F. Gonon, J.-P. Konsman, D. Cohen, T. Boraud.
+    <title>Why Most Biomedical Findings Echoed by Newspapers Turn Out to be
+    False: The Case of Attention Deficit Hyperactivity Disorder</title>.
+    <journal>PLoS ONE</journal>, 7:e44275, 2012.
+  </biblio>
+
+  <biblio type="raw" xml:id="goodman-1999tx">
+    S. N. Goodman.
+    <title>Toward evidence-based medical statistics. 1: The P value
+    fallacy</title>.
+    <journal>Annals of Internal Medicine</journal>, 130:995<ndash/>1004, 1999.
+  </biblio>
+
+  <biblio type="raw" xml:id="gotzsche-2006du">
+    P. C. Gøtzsche.
+    <title>Believability of relative risks and odds ratios in abstracts: cross
+    sectional study</title>.
+    <journal>BMJ</journal>, 333:231<ndash/>234, 2006.
+  </biblio>
+
+  <biblio type="raw" xml:id="gotzsche-1989uy">
+    P. C. Gøtzsche.
+    <title>Methodology and overt and hidden bias in reports of 196 double-blind
+    trials of nonsteroidal antiinflammatory drugs in rheumatoid
+    arthritis</title>.
+    <journal>Controlled Clinical Trials</journal>, 10:31<ndash/>56, 1989.
+  </biblio>
+
   <biblio type="raw" xml:id="hauer-2004fz">
     E. Hauer.
     <title>The harm done by tests of significance</title>.
     <journal>Accident Analysis <ampersand/> Prevention</journal>,
     36:495<ndash/>500, 2004.
+  </biblio>
+
+  <biblio type="raw" xml:id="hemenway-1997up">
+    D. Hemenway.
+    <title>Survey Research and Self-Defense Gun Use: An Explanation of Extreme
+    Overestimates</title>.
+    <journal>The Journal of Criminal Law and Criminology</journal>,
+    87:1430<ndash/>1445, 1997.
+  </biblio>
+
+  <biblio type="raw" xml:id="huwilermuntener-2002ij">
+    K. Huwiler-Müntener, P. Jüni, C. Junker, M. Egger.
+    <title>Quality of Reporting of Randomized Trials as a Measure of
+    Methodologic Quality</title>.
+    <journal>JAMA</journal>, 287:2801<ndash/>2804, 2002.
+  </biblio>
+
+  <biblio type="raw" xml:id="ioannidis-2008dy">
+    J. P. A. Ioannidis.
+    <title>Why Most Discovered True Associations Are Inflated</title>.
+    <journal>Epidemiology</journal>, 19:640<ndash/>648, 2008.
+  </biblio>
+
+  <biblio type="raw" xml:id="ioannidis-2005bw">
+    J. P. A. Ioannidis.
+    <title>Why Most Published Research Findings Are False</title>.
+    <journal>PLoS Medicine</journal>, 2(8):e124, 2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="ioannidis-2005gy">
+    J. P. A. Ioannidis.
+    <title>Contradicted and initially stronger effects in highly cited clinical
+    research</title>.
+    <journal>JAMA</journal>, 294:218<ndash/>228, 2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="ioannidis-2005bj">
+    J. P. A. Ioannidis, T. A. Trikalinos.
+    <title>Early extreme contradictory estimates may appear in published
+    research: the Proteus phenomenon in molecular genetics research and
+    randomized trials</title>.
+    <journal>Journal of Clinical Epidemiology</journal>, 58:543<ndash/>549,
+    2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="kirkham-2010kj">
+    J. J. Kirkham, K. M. Dwan, D. G. Altman, C. Gamble, S. Dodd, R. Smyth,
+    P. R. Williamson.
+    <title>The impact of outcome reporting bias in randomised controlled trials
+    on a cohort of systematic reviews</title>.
+    <journal>BMJ</journal>, 340:c365, 2010.
+  </biblio>
+
+  <biblio type="raw" xml:id="kramer-2005in">
+    W. Krämer, G. Gigerenzer.
+    <title>How to Confuse with Statistics or: The Use and Misuse of Conditional
+    Probabilities</title>.
+    <journal>Statistical Science</journal>, 20:223<ndash/>230, 2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="kyzas-2005ep">
+    P. A. Kyzas, K. T. Loizou, J. P. A. Ioannidis.
+    <title>Selective Reporting Biases in Cancer Prognostic Factor
+    Studies</title>.
+    <journal>Journal of the National Cancer Institute</journal>,
+    97:1043<ndash/>1055, 2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="lanzante-2005hi">
+    J. R. Lanzante.
+    <title>A cautionary note on the use of error bars</title>.
+    <journal>Journal of Climate</journal>, 18:3699<ndash/>3703, 2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="lazic-2010fc">
+    S. E. Lazic.
+    <title>The problem of pseudoreplication in neuroscientific studies: is it
+    affecting your analysis?</title>.
+    <journal>BMC Neuroscience</journal>, 11:5, 2010.
+  </biblio>
+
+  <biblio type="raw" xml:id="lelorier-1997ww">
+    J. LeLorier, G. Gregoire, A. Benhaddad.
+    <title>Discrepancies between meta-analyses and subsequent large randomized,
+    controlled trials</title>.
+    <journal>New England Journal of Medicine</journal>, 1997.
+  </biblio>
+
+  <biblio type="raw" xml:id="marshall-2000hg">
+    M. Marshall, A. Lockwood, C. Bradley, C. Adams, C. Joy, M. Fenton.
+    <title>Unpublished rating scales: a major source of bias in randomised
+    controlled trials of treatments for schizophrenia</title>.
+    <journal>The British Journal of Psychiatry</journal>, 176:249<ndash/>252,
+    2000.
+  </biblio>
+
+  <biblio type="raw" xml:id="metz-2008hs">
+    A. M. Metz.
+    <title>Teaching Statistics in Biology: Using Inquiry-based Learning to
+    Strengthen Understanding of Statistical Analysis in Biology Laboratory
+    Courses</title>.
+    <journal>CBE Life Sciences Education</journal>, 7:317<ndash/>326, 2008.
+  </biblio>
+
+  <biblio type="raw" xml:id="mills-2005ei">
+    E. Mills, P. Wu, J. Gagnier, D. Heels-Ansdell, V. M. Montori.
+    <title>An analysis of general medical and specialist journals that endorse
+    CONSORT found that reporting was not enforced consistently</title>.
+    <journal>Journal of Clinical Epidemiology</journal>, 58:662<ndash/>667,
+    2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="montori-2005bo">
+    V. M. Montori, P. J. Devereaux, N. Adhikari.
+    <title>Randomized trials stopped early for benefit: a systematic
+    review</title>.
+    <journal>JAMA</journal>, 294:2203<ndash/>2209, 2005.
+  </biblio>
+
+  <biblio type="raw" xml:id="nieuwenhuis-2011dm">
+    S. Nieuwenhuis, B. U. Forstmann, E.-J. Wagenmakers.
+    <title>Erroneous analyses of interactions in neuroscience: a problem of
+    significance</title>.
+    <journal>Nature Neuroscience</journal>, 14:1105<ndash/>1109, 2011.
+  </biblio>
+
+  <biblio type="raw" xml:id="pereira-2011eg">
+    T. V. Pereira, J. P. A. Ioannidis.
+    <title>Statistically significant meta-analyses of clinical trials have
+    modest credibility and inflated effects</title>.
+    <journal>Journal of Clinical Epidemiology</journal>, 64:1060<ndash/>1069,
+    2011.
+  </biblio>
+
+  <biblio type="raw" xml:id="plint-2006uj">
+    A. C. Plint, D. Moher, A. Morrison, K. Schulz, et al.
+    <title>Does the CONSORT checklist improve the quality of reports of
+    randomised controlled trials? A systematic review</title>.
+    <journal>Medical Journal of Australia</journal>, 185:263<ndash/>267, 2006.
+  </biblio>
+
+  <biblio type="raw" xml:id="prayle-2011cs">
+    A. P. Prayle, M. N. Hurley, A. R. Smyth.
+    <title>Compliance with mandatory reporting of clinical trial results on
+    ClinicalTrials.gov: cross sectional study</title>.
+    <journal>BMJ</journal>, 344:d7373, 2012.
   </biblio>
 
   <biblio type="raw" xml:id="preusser-1982gp">
@@ -70,6 +343,96 @@
     accidents</title>.
     <journal>Journal of Safety Research</journal>, 13:45<ndash/>55, 1982.
   </biblio>
+
+  <biblio type="raw" xml:id="prinz-2011gb">
+    F. Prinz, T. Schlange, K. Asadullah.
+    <title>Believe it or not: how much can we rely on published data on
+    potential drug targets?</title>.
+    <journal>Nature Reviews Drug Discovery</journal>, 10:328<ndash/>329, 2011.
+  </biblio>
+
+  <biblio type="raw" xml:id="schenker-2001cr">
+    N. Schenker, J. F. Gentleman.
+    <title>On judging the significance of differences by examining the overlap
+    between confidence intervals</title>.
+    <journal>The American Statistician</journal>, 55:182<ndash/>186, 2001.
+  </biblio>
+
+  <biblio type="raw" xml:id="schoenfeld-2013fq">
+    J. D. Schoenfeld, J. P. A. Ioannidis.
+    <title>Is everything we eat associated with cancer? A systematic cookbook
+    review</title>.
+    <journal>American Journal of Clinical Nutrition</journal>,
+    97:127<ndash/>134, 2013.
+  </biblio>
+
+  <biblio type="raw" xml:id="schroter-2008hw">
+    S. Schroter, N. Black, S. Evans, F. Godlee, L. Osorio, R. Smith.
+    <title>What errors do peer reviewers detect, and does training improve their
+    ability to detect them?</title>.
+    <journal>JRSM</journal>, 101:507<ndash/>514, 2008.
+  </biblio>
+
+  <biblio type="raw" xml:id="simmons-2011iw">
+    J. P. Simmons, L. D. Nelson, U. Simonsohn.
+    <title>False-Positive Psychology: Undisclosed Flexibility in Data Collection
+    and Analysis Allows Presenting Anything as Significant</title>.
+    <journal>Psychological Science</journal>, 22:1359<ndash/>1366, 2011.
+  </biblio>
+
+  <biblio type="raw" xml:id="smith-1987uz">
+    D. G. Smith, J. Clemens, W. Crede, M. Harvey, E. J. Gracely.
+    <title>Impact of multiple comparisons in randomized clinical trials</title>.
+    <journal>The American Journal of Medicine</journal>, 83:545<ndash/>550,
+    1987.
+  </biblio>
+
+  <biblio type="raw" xml:id="tatsioni-2007cr">
+    A. Tatsioni, N. G. Bonitsis, J. P. A. Ioannidis.
+    <title>Persistence of Contradicted Claims in the Literature</title>.
+    <journal>JAMA</journal>, 298:2517<ndash/>2526, 2007.
+  </biblio>
+
+  <biblio type="raw" xml:id="todd-2001hg">
+    S. Todd, A. Whitehead, N. Stallard, J. Whitehead.
+    <title>Interim analyses and sequential designs in phase III studies</title>.
+    <journal>British Journal of Clinical Pharmacology</journal>,
+    51:394<ndash/>399, 2001.
+  </biblio>
+
+  <biblio type="raw" xml:id="tsang-2009iw">
+    R. Tsang, L. Colley, L. D. Lynd.
+    <title>Inadequate statistical power to detect clinically significant
+    differences in adverse event rates in randomized controlled trials</title>.
+    <journal>Journal of Clinical Epidemiology</journal>, 62:609<ndash/>616,
+    2009.
+  </biblio>
+
+  <biblio type="raw" xml:id="wagenmakers-2011tp">
+    E. Wagenmakers, R. Wetzels.
+    <title>Why psychologists must change the way they analyze their data: The
+    case of psi</title>.
+    <journal>Journal of Personality and Social Psychology</journal>, 2011.
+  </biblio>
+
+  <biblio type="raw" xml:id="wainer-2007wr">
+    H. Wainer.
+    <title>The Most Dangerous Equation</title>.
+    <journal>American Scientist</journal>, 95:249<ndash/>256, 2007.
+  </biblio>
+
+  <biblio type="raw" xml:id="wicherts-2011fp">
+    J. M. Wicherts, M. Bakker, D. Molenaar.
+    <title>Willingness to Share Research Data Is Related to the Strength of the
+    Evidence and the Quality of Reporting of Statistical Results</title>.
+    <journal>PLoS ONE</journal>, 6:e26828, 2011.
+  </biblio>
+
+  <biblio type="raw" xml:id="wicherts-2006jg">
+    J. M. Wicherts, D. Borsboom, J. Kats, D. Molenaar.
+    <title>The poor availability of psychological research data for
+    reanalysis</title>.
+    <journal>American Psychologist</journal>, 61:726<ndash/>728, 2006.
 
   <biblio type="raw" xml:id="belia-2005dg">
     S. Belia, F. Fidler, J. Williams, G. Cumming.
