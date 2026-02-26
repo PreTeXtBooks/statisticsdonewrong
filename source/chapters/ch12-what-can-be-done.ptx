@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="ch-what-next" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What Can Be Done?</title>
-
+ <introduction>
   <p>
     I've discussed many statistical problems throughout this guide. They
     appear in many fields of science: medicine, physics, climate science,
@@ -9,6 +9,7 @@
     statistical methods to analyze data is likely to make a mistake, and as
     we've seen, most of them do. What can we do about it?
   </p>
+ </introduction>
 
   <section xml:id="sec-statistical-education">
     <title>Statistical Education</title>
