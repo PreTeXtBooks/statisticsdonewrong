@@ -3,22 +3,118 @@
   <title>What Have We Wrought?</title>
 
   <p>
-    The statistical errors described in this book are not rare edge cases.
-    They are widespread, and their consequences are serious. Entire fields
-    of science may be built on shaky statistical foundations, with many
-    published findings that cannot be replicated.
+    I've painted a grim picture. But anyone can pick out small details in
+    published studies and produce a tremendous list of errors. Do these
+    problems matter?
   </p>
 
   <p>
-    Several high-profile replication failures have called into question
-    the reliability of published scientific research. When researchers
-    attempt to replicate well-known findings, they often fail <mdash/>
-    sometimes dramatically so.
+    Well, yes. I wouldn't have written this otherwise.
   </p>
 
   <p>
-    This chapter surveys what we know about the state of scientific
-    reproducibility and discusses the consequences for science and society.
+    John Ioannidis's famous article <q>Why Most Published Research Findings
+    are False</q><fn>J. P. A. Ioannidis. Why Most Published Research
+    Findings Are False. <em>PLoS Medicine</em>, 2(8):e124, 2005.</fn> was
+    grounded in mathematical concerns rather than an empirical test of
+    research results. If most research articles have poor statistical power
+    <mdash/> and they do <mdash/> while researchers have the freedom to
+    choose among multitudes of analyses methods to get favorable results
+    <mdash/> and they do <mdash/> when most tested hypotheses are false
+    and most true hypotheses correspond to very small effects, we are
+    mathematically determined to get a multitude of false positives.
+  </p>
+
+  <p>
+    But if you want empiricism, you can have it, courtesy of John Ioannidis
+    and Jonathan Schoenfeld. They studied the question <q>Is everything we
+    eat associated with cancer?</q><fn>J. D. Schoenfeld and J. P. A.
+    Ioannidis. Is everything we eat associated with cancer? A systematic
+    cookbook review. <em>American Journal of Clinical Nutrition</em>,
+    97:127<ndash/>134, 2013.</fn><fn>An important part of the ongoing
+    <url href="http://dailymailoncology.tumblr.com/"
+    visual="dailymailoncology.tumblr.com">Oncological Ontology</url>
+    project to categorize everything into two categories: that which cures
+    cancer and that which causes it.</fn> After choosing fifty common
+    ingredients out of a cookbook, they set out to find studies linking
+    them to cancer rates <mdash/> and found 216 studies on forty different
+    ingredients. Of course, most of the studies disagreed with each other.
+    Most ingredients had multiple studies claiming they increased
+    <em>and</em> decreased the risk of getting cancer. Most of the
+    statistical evidence was weak, and meta-analyses usually showed much
+    smaller effects on cancer rates than the original studies.
+  </p>
+
+  <p>
+    Of course, being contradicted by follow-up studies and meta-analyses
+    doesn't prevent a paper from being cited as though it were true. Even
+    effects which have been contradicted by massive follow-up trials with
+    unequivocal results are frequently cited five or ten years later, with
+    scientists apparently not noticing that the results are
+    false.<fn>A. Tatsioni, N. G. Bonitsis, and J. P. A. Ioannidis.
+    Persistence of Contradicted Claims in the Literature. <em>JAMA</em>,
+    298:2517<ndash/>2526, 2007.</fn> Of course, new findings get widely
+    publicized in the press, while contradictions and corrections are
+    hardly ever mentioned.<fn>F. Gonon, J.-P. Konsman, D. Cohen, and
+    T. Boraud. Why Most Biomedical Findings Echoed by Newspapers Turn Out
+    to be False: The Case of Attention Deficit Hyperactivity Disorder.
+    <em>PLoS ONE</em>, 7:e44275, 2012.</fn> You can hardly blame the
+    scientists for not keeping up.
+  </p>
+
+  <p>
+    Let's not forget the merely biased results. Poor reporting standards in
+    medical journals mean studies testing new treatments for schizophrenia
+    can neglect to include the scale they used to evaluate symptoms
+    <mdash/> a handy source of bias, as trials using unpublished scales
+    tend to produce better results than those using previously validated
+    tests.<fn>M. Marshall, A. Lockwood, C. Bradley, C. Adams, C. Joy, and
+    M. Fenton. Unpublished rating scales: a major source of bias in
+    randomised controlled trials of treatments for schizophrenia.
+    <em>The British Journal of Psychiatry</em>, 176:249<ndash/>252,
+    2000.</fn> Other medical studies simply omit particular results if
+    they're not favorable or interesting, biasing subsequent meta-analyses
+    to only include positive results. A third of meta-analyses are
+    estimated to suffer from this problem.<fn>J. J. Kirkham, K. M. Dwan,
+    D. G. Altman, C. Gamble, S. Dodd, R. Smyth, and P. R. Williamson.
+    The impact of outcome reporting bias in randomised controlled trials on
+    a cohort of systematic reviews. <em>BMJ</em>, 340:c365, 2010.</fn>
+  </p>
+
+  <p>
+    Another review compared meta-analyses to subsequent large randomized
+    controlled trials, considered the gold standard in medicine. In over a
+    third of cases, the randomized trial's outcome did not correspond well
+    to the meta-analysis.<fn>J. LeLorier, G. Gregoire, and A. Benhaddad.
+    Discrepancies between meta-analyses and subsequent large randomized,
+    controlled trials. <em>New England Journal of Medicine</em>,
+    1997.</fn> Other comparisons of meta-analyses to subsequent research
+    found that most results were inflated, with perhaps a fifth
+    representing false positives.<fn>T. V. Pereira and J. P. A.
+    Ioannidis. Statistically significant meta-analyses of clinical trials
+    have modest credibility and inflated effects. <em>Journal of Clinical
+    Epidemiology</em>, 64:1060<ndash/>1069, 2011.</fn>
+  </p>
+
+  <p>
+    Let's not forget the multitude of physical science papers which misuse
+    confidence intervals.<fn>J. R. Lanzante. A cautionary note on the use
+    of error bars. <em>Journal of Climate</em>, 18:3699<ndash/>3703,
+    2005.</fn> Or the peer-reviewed psychology paper allegedly providing
+    evidence for psychic powers, on the basis of uncontrolled multiple
+    comparisons in exploratory studies.<fn>E. Wagenmakers and R. Wetzels.
+    Why psychologists must change the way they analyze their data: The
+    case of psi. <em>Journal of Personality and Social Psychology</em>,
+    2011.</fn> Unsurprisingly, results failed to be replicated <mdash/>
+    by scientists who appear not to have calculated the statistical power
+    of their tests.<fn>J. Galak, R. A. LeBoeuf, L. D. Nelson, and J. P.
+    Simmons. Correcting the past: Failures to replicate psi. <em>Journal
+    of Personality and Social Psychology</em>, 103:933<ndash/>948,
+    2012.</fn>
+  </p>
+
+  <p>
+    We have a problem. Let's work on fixing it.
   </p>
 
 </chapter>
