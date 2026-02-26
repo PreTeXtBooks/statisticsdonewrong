@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="ch-introduction" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Introduction</title>
-
+<introduction>
   <p>
     In the final chapter of his famous book <em>How to Lie with Statistics</em>,
     Darrell Huff tells us that <q>anything smacking of the medical profession</q>
@@ -53,6 +53,7 @@
     to improve the science we rely on.
   </p>
 
+</introduction>
   <section xml:id="sec-changes">
     <title>Changes</title>
 
