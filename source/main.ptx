@@ -34,19 +34,19 @@
       </colophon>
     </frontmatter>
 
-    <xi:include href="chapters/introduction.ptx"/>
-    <xi:include href="chapters/data-analysis.ptx"/>
-    <xi:include href="chapters/power.ptx"/>
-    <xi:include href="chapters/pseudoreplication.ptx"/>
-    <xi:include href="chapters/p-value.ptx"/>
-    <xi:include href="chapters/significant-differences.ptx"/>
-    <xi:include href="chapters/regression.ptx"/>
-    <xi:include href="chapters/freedom.ptx"/>
-    <xi:include href="chapters/mistakes.ptx"/>
-    <xi:include href="chapters/hiding.ptx"/>
-    <xi:include href="chapters/results.ptx"/>
-    <xi:include href="chapters/what-next.ptx"/>
-    <xi:include href="chapters/conclusion.ptx"/>
+    <xi:include href="chapters/ch1-introduction.ptx"/>
+    <xi:include href="chapters/ch2-introduction-to-data-analysis.ptx"/>
+    <xi:include href="chapters/ch3-statistical-power-and-underpowered-statistics.ptx"/>
+    <xi:include href="chapters/ch4-pseudoreplication.ptx"/>
+    <xi:include href="chapters/ch5-the-p-value-and-the-base-rate-fallacy.ptx"/>
+    <xi:include href="chapters/ch6-when-differences-significance-arent-signficant-differences.ptx"/>
+    <xi:include href="chapters/ch7-stopping-rules-and-regression-to-the-mean.ptx"/>
+    <xi:include href="chapters/ch8-researcher-freedom.ptx"/>
+    <xi:include href="chapters/ch9-everybody-makes-mistakes.ptx"/>
+    <xi:include href="chapters/ch10-hiding-the-data.ptx"/>
+    <xi:include href="chapters/ch11-what-have-we-wrought.ptx"/>
+    <xi:include href="chapters/ch12-what-can-be-done.ptx"/>
+    <xi:include href="chapters/ch13-conclusion.ptx"/>
 
     <backmatter xml:id="backmatter">
       <xi:include href="chapters/zbibliography.ptx"/>
