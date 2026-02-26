@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project ptx-version="2">
+<project ptx-version="2" publication=".">
   <targets>
-    <target name="web">
-      <format>html</format>
-      <source>source/main.ptx</source>
-      <publication>publication.ptx</publication>
-      <output-dir>output/web</output-dir>
-    </target>
-    <target name="pdf">
-      <format>pdf</format>
-      <source>source/main.ptx</source>
-      <publication>publication.ptx</publication>
-      <output-dir>output/pdf</output-dir>
-    </target>
+    <target name="web" format="html" source="main.ptx" publication="publication.ptx" output-dir="web"/>
+    <target name="pdf" format="pdf" source="main.ptx" publication="publication.ptx" output-dir="pdf"/>
   </targets>
 </project>
