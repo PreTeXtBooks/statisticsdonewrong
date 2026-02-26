@@ -139,7 +139,7 @@
     <p>
       Ignoring the chance that you, the reader, are male,<fn>Interestingly,
       being male doesn't exclude you from getting breast cancer; it just makes
-      it exceedingly unlikely.</fn> the answer is 9%.
+      it exceedingly unlikely.</fn> the answer is 9%.<xref ref="kramer-2005in"/>
     </p>
 
     <p>
@@ -167,8 +167,8 @@
 
     <p>
       If you administer questions like this one to statistics students and
-      scientific methodology instructors, more than a third fail. If you ask
-      doctors, two thirds fail. They erroneously conclude that a
+      scientific methodology instructors, more than a third fail.<xref ref="kramer-2005in"/> If you ask
+      doctors, two thirds fail.<xref ref="bramwell-2006er"/> They erroneously conclude that a
       <m>p \lt 0.05</m> result implies a 95% chance that the result is true
       <mdash/> but as you can see in these examples, the likelihood of a
       positive result being true depends on <em>what proportion of hypotheses
@@ -218,7 +218,7 @@
       only after the burglar had left. That leaves 430,000 burglaries
       involving homeowners who were at home and awake to confront the
       burglar <mdash/> 845,000 of which, we are led to believe, were stymied
-      by gun-toting residents.
+      by gun-toting residents.<xref ref="hemenway-1997up"/>
     </p>
 
     <p>
@@ -294,7 +294,7 @@
       a false positive. For example, if I test 20 jelly bean flavors which
       do not cause acne at all, and look for a correlation at
       <m>p \lt 0.05</m> significance, I have a 64% chance of a false
-      positive result. If I test 45 materials, the chance of false positive
+      positive result.<xref ref="smith-1987uz"/> If I test 45 materials, the chance of false positive
       is as high as 90%.
     </p>
 
@@ -318,7 +318,7 @@
       highly likely, and the statistically significant results they did
       report were cast into doubt: they may have found a statistically
       significant effect, but it could just have easily been a false
-      positive.
+      positive.<xref ref="smith-1987uz"/>
     </p>
 
     <p>
@@ -376,7 +376,7 @@
     <p>
       The study participants? Not college undergraduates paid $10 for their
       time, as is usual. No, the test subject was one 3.8-pound Atlantic
-      salmon, which <q>was not alive at the time of scanning.</q>
+      salmon, which <q>was not alive at the time of scanning.</q><xref ref="bennett-2010uh"/>
     </p>
 
     <p>
@@ -389,7 +389,7 @@
       every paper tackles the problem differently; a review of 241 fMRI
       studies found that they performed 223 unique analysis strategies,
       which, as we will discuss later, gives the researchers great
-      flexibility to achieve statistically significant results.
+      flexibility to achieve statistically significant results.<xref ref="carp-2012ba"/>
     </p>
 
   </section>
@@ -475,7 +475,7 @@
     <p>
       You're done! The procedure guarantees that out of all statistically
       significant results, no more than <em>q</em> percent will be false
-      positives.
+      positives.<xref ref="benjamini-1995ws"/>
     </p>
 
     <p>

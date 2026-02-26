@@ -17,7 +17,7 @@
 
   <p>
     However, a difference in significance does not always make a significant
-    difference.
+    difference.<xref ref="gelman-2006bj"/>
   </p>
 
   <p>
@@ -56,9 +56,9 @@
   <p>
     Examples of this error in common literature and news stories abound. A
     huge proportion of papers in neuroscience, for instance, commit the
-    error. You might also remember a study a few years ago suggesting that
+    error.<xref ref="nieuwenhuis-2011dm"/> You might also remember a study a few years ago suggesting that
     men with more biological older brothers are more likely to be
-    homosexual. How did they reach this conclusion? And why older brothers
+    homosexual.<xref ref="bogaert-2006tc"/> How did they reach this conclusion? And why older brothers
     and not older sisters?
   </p>
 
@@ -76,7 +76,7 @@
     fact, taking a closer look at the data, it appears there's no
     statistically significant difference between the effect of older
     brothers and older sisters. Unfortunately, not enough data was published
-    in the paper to allow a direct calculation.
+    in the paper to allow a direct calculation.<xref ref="gelman-2006bj"/>
   </p>
 
   <section xml:id="sec-confidence-intervals">
@@ -168,7 +168,7 @@
       Unfortunately, many scientists skip hypothesis tests and simply glance
       at plots to see if confidence intervals overlap. This is actually a
       much more conservative test <mdash/> requiring confidence intervals to
-      not overlap is akin to requiring <m>p \lt 0.01</m> in some cases. It
+      not overlap is akin to requiring <m>p \lt 0.01</m> in some cases.<xref ref="schenker-2001cr"/> It
       is easy to claim two measurements are not significantly different even
       when they are.
     </p>
@@ -185,9 +185,9 @@
       A survey of psychologists, neuroscientists and medical researchers
       found that the majority made this simple error, with many scientists
       confusing standard errors, standard deviations, and confidence
-      intervals. Another survey of climate science papers found that a
+      intervals.<xref ref="belia-2005dg"/> Another survey of climate science papers found that a
       majority of papers which compared two groups with error bars made the
-      error. Even introductory textbooks for experimental scientists, such
+      error.<xref ref="lanzante-2005hi"/> Even introductory textbooks for experimental scientists, such
       as <em>An Introduction to Error Analysis</em>, teach students to judge
       by eye, hardly mentioning formal hypothesis tests at all.
     </p>
@@ -196,7 +196,7 @@
       There are, of course, formal statistical procedures which generate
       confidence intervals which <em>can</em> be compared by eye, and even
       correct for multiple comparisons automatically. For example, Gabriel
-      comparison intervals are easily interpreted by eye.
+      comparison intervals are easily interpreted by eye.<xref ref="gabriel-1978fp"/>
     </p>
 
     <p>
